@@ -1,0 +1,41 @@
+
+
+LISTADO DE JUGUETES
+-------------------
+
+- Animation Resources: Creado por Imanol Montoro [2ºDAM, Curso 2020-21], esta app sencilla incluye un degradado en el 
+	background, una transición de imágenes, y un botón animado que se desplaza por la pantalla. 
+
+- AudioYVideo: Un reproductor multimedia para mp3 y mp4
+
+- FireBaseTextRecognition: Aplicación de reconocimiento de texto mediante la cámara. Requiere instalar en móvil, no es 
+posible verlo mediante emulador.
+
+- Fragments: Ejemplo de uso de los tabs y Fragments de Android
+
+- Gyroscope: Ejemplo del funcionamiento de los rotores y giróscopos del móvil.
+
+- Hollow Knight: Creado por Alba Lallana [2ºDAM, Curso 2022-23], es una animación simple creada con los recursos de Android.
+	
+- LoadingScreen: Ejemplo de cómo añadir un gif a Android.
+
+- Loot Generator: Un generador aleatorio de drops del juego de rol de Fallout. La app en realidad es un enseyo de ver hasta 
+	dónde puedes llegar con Java en Android. En cuanto se carga la app, se recorren unos XML con el contenido de las tablas 
+	de los drops y se vuelcan en SQLite. El código está pensado para ser súper-genérico de forma que cambiando los xml se 
+	actualziarían las tablas. Obviamente, nada de esto tiene sentido en una app real. 
+
+JUEGOS
+------
+
+- Balltap: Juego sencillo que muestra pokeballs al azar en la pantalla y te da puntos si la presionas
+
+- MiniJuego SdlA: Creado por David Pereiro [2ºDAM, Curso 2022-23], es un juego sencillo de preguntas sobre el Señor de los 
+	Anillos. Te calcula la puntuación al final. 
+
+- Space Invaders: El videojuego de Space Invaders completo. No me preguntéis cómo funciona, que yo tampoco llego...
+	
+- SpinWheel: Creado por Txaber Olabe [2ºDAM, Curso 2022-23], es un juego simple que muestra una ruleta que gira y se detiene
+	aleatoriamente en un número. Y con muy poco código...
+	
+- SpinWheel Decelerar: Creado por Galder Gonzalez-Bals  [2ºDAM, Curso 2023-24], es una variante del SpinWheel de Txaber con 
+	la peculiaridad de que la ruleta decelera progresivamente. 
