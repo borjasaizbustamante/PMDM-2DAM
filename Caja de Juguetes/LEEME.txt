@@ -3,7 +3,7 @@
 LISTADO DE JUGUETES
 -------------------
 
-- Animation Resources: Creado por Imanol Montoro [2ºDAM, Curso 2020-21], esta app sencilla incluye un degradado en el 
+- Animation Resources: Creado por Imanol [2ºDAM, Curso 2020-21], esta app sencilla incluye un degradado en el 
 	background, una transición de imágenes, y un botón animado que se desplaza por la pantalla. 
 
 - AudioYVideo: Un reproductor multimedia para mp3 y mp4
@@ -15,7 +15,7 @@ posible verlo mediante emulador.
 
 - Gyroscope: Ejemplo del funcionamiento de los rotores y giróscopos del móvil.
 
-- Hollow Knight: Creado por Alba Lallana [2ºDAM, Curso 2022-23], es una animación simple creada con los recursos de Android.
+- Hollow Knight: Creado por Alba [2ºDAM, Curso 2022-23], es una animación simple creada con los recursos de Android.
 	
 - LoadingScreen: Ejemplo de cómo añadir un gif a Android.
 
@@ -34,8 +34,8 @@ JUEGOS
 
 - Space Invaders: El videojuego de Space Invaders completo. No me preguntéis cómo funciona, que yo tampoco llego...
 	
-- SpinWheel: Creado por Txaber Olabe [2ºDAM, Curso 2022-23], es un juego simple que muestra una ruleta que gira y se detiene
+- SpinWheel: Creado por Txaber [2ºDAM, Curso 2022-23], es un juego simple que muestra una ruleta que gira y se detiene
 	aleatoriamente en un número. Y con muy poco código...
 	
-- SpinWheel Decelerar: Creado por Galder Gonzalez-Bals  [2ºDAM, Curso 2023-24], es una variante del SpinWheel de Txaber con 
+- SpinWheel Decelerar: Creado por Galder [2ºDAM, Curso 2023-24], es una variante del SpinWheel de Txaber con 
 	la peculiaridad de que la ruleta decelera progresivamente. 
