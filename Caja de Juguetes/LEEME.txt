@@ -39,3 +39,5 @@ JUEGOS
 	
 - SpinWheel Decelerar: Creado por Galder [2ºDAM, Curso 2023-24], es una variante del SpinWheel de Txaber con 
 	la peculiaridad de que la ruleta decelera progresivamente. 
+	
+- SpinWheelKotlin: Creado por Khaled [2ºDAM, Curso 2025-26], es una reescritura del ejercicio de Galder pero en Kotlin
