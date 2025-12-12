@@ -4,6 +4,7 @@ LISTADO DE PRACTICAS
 --------------------
 
 - P10 - CapturaFotosKotlin: Creado por Yeary [2ºDAM, Curso 2025-26]
+- P10 - CapturaFotosKotlin_Actualizada: Creado por Yeary [2ºDAM, Curso 2025-26], no utiliza métodos deprecados
 - P11 - AudioYVideo_ActivityUnica: Creado por Haritz [2ºDAM, Curso 2025-26]
 
 - Ej 51 - Geoloc Kotlin: Creado por Khaled [2ºDAM, Curso 2025-26]
