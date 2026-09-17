@@ -1,0 +1,53 @@
+
+Cuaderno de bitácora
+--------------------
+
+07/09/2026 - 	UD1.1 - Elementos del Lenguaje
+				Hacer el ejercicio guiado que aparece en el PDF para familiarizarnos con Android Studio
+				Ejercicios propuestos en el PDF
+				
+09/09/2026 - 	UD1.2 - El Proyecto Android
+				Ejercicio importante "Calculadora"
+				
+14/09/2026 - 	UD1.3 - Debuggear Apps
+				UD1.4 - Publicar Apps
+				UD1.5 - Kotlin
+				Importante, entender las diferencias entre Java y Kotlin. Ver los ejemplos.
+				
+16/09/2026 - 	UD2.1 - Diseño del Interfaz
+				UD2.2 - Pantallas
+				UD2.5 - Contenedores
+				Ejercicios propuestos en los PDFs
+				Ejercicio importante "Colorfull Buttons"
+				
+21/09/2026 -
+
+23/09/2026 - 
+
+28/09/2026 -
+
+30/09/2026 -
+
+05/10/2026 -
+
+07/10/2026 -
+
+12/10/2026 -
+
+14/10/2026 -
+
+19/10/2026 -
+
+21/10/2026 -
+
+26/10/2026 - Fecha aproximada inicio Reto de PMDM
+
+...
+
+16/11/2026 - Fecha aproximada examen PMDM, Inicio de OPT1 - DAMSIA
+
+
+
+
+
+
