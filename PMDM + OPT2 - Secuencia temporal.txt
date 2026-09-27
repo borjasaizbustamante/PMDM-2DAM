@@ -1,0 +1,53 @@
+
+SECUENCIA
+----------
+
+Algunas de estas fechas son APROXIMADAS. Se irán confirmando.
+
+Os recuerdo que la asignatura NO sigue los tiempos de las demás asignaturas de 2DAM:
+
+Módulo de PMDM:
+
+ - Clase: 
+		
+		INICIO - 	04/09/2026
+		FIN - 		06/11/2026
+		
+ - Reto: Independiente del R1 de 2DAM
+ 
+		INICIO - 	09/11/2026
+		FIN - 		30/11/2026
+		
+ - Examen de Evaluación de TODO el módulo: 1/12/2026
+
+
+Módulo OPT2 (DAMSIA):
+
+ - Clase: 
+		
+		INICIO - 	02/12/2026
+		FIN - 		22/01/2027
+		
+ - Reto 2: Nos unimos al R2 de 2DAM, pero en nuestras fechas
+ 
+		INICIO - 	25/01/2027
+		FIN - 		19/02/2027
+		
+ - Examen de Evaluación de TODO el módulo: 23/02/2027
+
+
+// -------------------------------------
+
+
+Contenidos de la asignatura por semana (aprox):
+
+- 07/09/2026 - UD1, PDFs 1.1, 1.2, Ejercicios: Números Primos, Calculadora 
+- 14/09/2026 - UD1, PDFs 1.3, 1.4, Kotlin. UD2, PDFs 2.1, 2.2, 2.3, 2.5, Ejercicios: ColorfullButtons
+- 21/09/2026 - UD3, PDFs 3.1,PDFs 3.2 Ejercicios: Ciclo de Vida
+- 28/09/2026 - UD3, PDFs 3.2, Ejercicios: Minijuego Friki, Cámara de Fotos, Google/Youtube
+- 05/10/2026 - UD2, PDFs 2.4, UD4, PDFs 4.4, Ejercicios: Listado de Alumnos, Canciones Favoritas
+- 12/10/2026 - Curro de las semanas anteriores
+- 19/10/2026 - UD5, PDF 5.1, 5.2, 5.3., UD 6, PDF 6.1 y 6.2 (Videojuegos)
+- 26/10/2026 - UD2, PDF 2.6
+- 02/11/2026 - UD2, PDF 2.7
+
